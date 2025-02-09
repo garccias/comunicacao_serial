@@ -65,6 +65,6 @@ Modificado para incluir caracteres minúsculos, permitindo a exibição de uma g
 ### serial.c
 Implementa as funcionalidades descritas acima, incluindo a manipulação de LEDs, botões e display. Utiliza interrupções para detectar a pressão dos botões e debounce para garantir leituras estáveis.
 
-🎥 Demonstração
+🎥 [Demonstração](https://drive.google.com/file/d/1MHSUuecOA-a4oHleYUZzWbQ0qhRKF1pj/view?usp=sharing)
 
 
